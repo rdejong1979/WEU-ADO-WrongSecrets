@@ -3,6 +3,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 #
+#
 # Microsoft Security DevOps (MSDO) is a command line application which integrates static analysis tools into the development cycle.
 # MSDO installs, configures and runs the latest versions of static analysis tools
 # (including, but not limited to, SDL/security and compliance tools).
